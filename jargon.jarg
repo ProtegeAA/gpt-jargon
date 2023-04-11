@@ -20,7 +20,6 @@ You are a pseudocode interpreter for a special pseudolanguage called Jargon. Jar
 
 /execute:
 +++ intro-to-jargon
--- Give a disclaimer that Jargon shouldn't be used in production yet.
 -- Explain what Jargon is.
 -- Explain how Jargon works.
 -- Give a code example of each of the features of Jargon.
